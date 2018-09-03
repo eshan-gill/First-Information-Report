@@ -1,0 +1,56 @@
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\bin\Debug\FirstInformationReport.exe
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\bin\Debug\FirstInformationReport.pdb
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmActs.resources
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.exe
+c:\users\dell\documents\visual studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmActList.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStaff.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStafflist.resources
+C:\Users\DELL\documents\visual studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmComplaintList.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmComplaints.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmLogin.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmFIR.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmFIRActs.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmFIRList.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmWitnesses.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmComplaintAgainst.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmReports.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMarking.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStatus.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStatements.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStaffDetails.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmAboutDevelopers.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMain.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMain2.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMain3.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.exe
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.pdb
+I:\FirstInformationReport\bin\Debug\FirstInformationReport.exe
+I:\FirstInformationReport\bin\Debug\FirstInformationReport.pdb
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.csprojResolveAssemblyReference.cache
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmAboutDevelopers.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMain.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmActList.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmActs.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmComplaintAgainst.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmComplaintList.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmComplaints.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmFIR.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmFIRActs.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmFIRList.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmLogin.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMain2.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMain3.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmMarking.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmReports.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStaff.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStaffDetails.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStafflist.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStatements.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmStatus.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.frmWitnesses.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.Properties.Resources.resources
+I:\FirstInformationReport\obj\x86\Debug\FirstInformationReport.csproj.GenerateResource.Cache

@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53B38A4A-5615-4AFE-9CE0-CF6DA07310C8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FirstInformationReport</RootNamespace>
+    <AssemblyName>FirstInformationReport</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CommonFunctions.cs" />
+    <Compile Include="frmAboutDevelopers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutDevelopers.Designer.cs">
+      <DependentUpon>frmAboutDevelopers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActList.Designer.cs">
+      <DependentUpon>frmActList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmActs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmActs.Designer.cs">
+      <DependentUpon>frmActs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComplaintAgainst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComplaintAgainst.Designer.cs">
+      <DependentUpon>frmComplaintAgainst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComplaintList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComplaintList.Designer.cs">
+      <DependentUpon>frmComplaintList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComplaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComplaints.Designer.cs">
+      <DependentUpon>frmComplaints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFIR.Designer.cs">
+      <DependentUpon>frmFIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFIRActs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFIRActs.Designer.cs">
+      <DependentUpon>frmFIRActs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFIRList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFIRList.Designer.cs">
+      <DependentUpon>frmFIRList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain2.Designer.cs">
+      <DependentUpon>frmMain2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain3.Designer.cs">
+      <DependentUpon>frmMain3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarking.Designer.cs">
+      <DependentUpon>frmMarking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReports.Designer.cs">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffDetails.Designer.cs">
+      <DependentUpon>frmStaffDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffList.Designer.cs">
+      <DependentUpon>frmStaffList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatements.Designer.cs">
+      <DependentUpon>frmStatements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatus.Designer.cs">
+      <DependentUpon>frmStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWitnesses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWitnesses.Designer.cs">
+      <DependentUpon>frmWitnesses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAboutDevelopers.resx">
+      <DependentUpon>frmAboutDevelopers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActList.resx">
+      <DependentUpon>frmActList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmActs.resx">
+      <DependentUpon>frmActs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComplaintAgainst.resx">
+      <DependentUpon>frmComplaintAgainst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComplaintList.resx">
+      <DependentUpon>frmComplaintList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComplaints.resx">
+      <DependentUpon>frmComplaints.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFIR.resx">
+      <DependentUpon>frmFIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFIRActs.resx">
+      <DependentUpon>frmFIRActs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFIRList.resx">
+      <DependentUpon>frmFIRList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain2.resx">
+      <DependentUpon>frmMain2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain3.resx">
+      <DependentUpon>frmMain3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarking.resx">
+      <DependentUpon>frmMarking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReports.resx">
+      <DependentUpon>frmReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffDetails.resx">
+      <DependentUpon>frmStaffDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffList.resx">
+      <DependentUpon>frmStaffList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatements.resx">
+      <DependentUpon>frmStatements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatus.resx">
+      <DependentUpon>frmStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWitnesses.resx">
+      <DependentUpon>frmWitnesses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %286%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %2810%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %285%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %284%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\245px-Central_Reserve_Police_Force_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\245px-Central_Reserve_Police_Force_logo1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
